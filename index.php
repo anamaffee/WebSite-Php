@@ -62,7 +62,7 @@
 
 <div id="site">
 
-    <?php include("cabecalho/cabecalho.php"); ?>
+    <?php include("cabecalho/header.php"); ?>
 
     <?php include("menu/menu.php"); ?>
 
@@ -70,7 +70,7 @@
 
         <div id="conteudo">
 
-            <?php include("artigos/destaques.php"); ?>
+            <?php include("artigos/artigos.php"); ?>
 
             <div class="artigos">
 
@@ -87,7 +87,7 @@
 
             <?php include("lateral/pesquisa.php"); ?>
 
-            <?php include("lateral/mais_lidos.php"); ?>
+            <?php include("lateral/maisLidos.php"); ?>
 
             <?php include("lateral/imagens.php"); ?>
 
@@ -95,7 +95,7 @@
 
     </div>
 
-    <?php include("rodape/rodape.php"); ?>
+    <?php include("rodape/footer.php"); ?>
 
 </div>
 
