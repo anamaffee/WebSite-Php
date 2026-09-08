@@ -99,5 +99,11 @@
 
 </div>
 
+    <?php //Sandro, aqui era pra incluirmos o site da vall
+    //  mas ele simplesmente sumiu tudo. O merge não teve
+    // erros mas simplesmente não conseguimos juntar as duas paginas. 
+    // As duas partes estao aqui copiadas e no github da val ta publica a parte dela. 
+    // obrigado e desculpa a demora. ?>
+
 </body>
 </html>
